@@ -3,7 +3,7 @@ Using MongoDB to store todo tasks and EJS the user can mark completed, UNcomplet
 
 <!-- **Link to project:** https://noravgs.github.io/concert-todo/ -->
 
-![alt tag]()
+![image](https://github.com/noravgs/concert-todo/blob/main/public/images/concertTodo.gif?raw=true)
 
 ## How It's Made:
 
